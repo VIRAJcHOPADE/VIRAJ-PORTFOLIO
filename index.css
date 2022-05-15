@@ -425,6 +425,9 @@ button:focus {
     color: grey;
     line-height: 20px;
 }
+.experience-description{
+    overflow: scroll;
+}
 
 /* Common Margin Classes */
 
